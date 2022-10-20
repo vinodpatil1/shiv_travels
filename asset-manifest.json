@@ -1,10 +1,10 @@
 {
-  "main.css": "/shiv_travels/static/css/main.364f39a3.chunk.css",
-  "main.js": "/shiv_travels/static/js/main.a817906e.chunk.js",
-  "main.js.map": "/shiv_travels/static/js/main.a817906e.chunk.js.map",
+  "main.css": "/shiv_travels/static/css/main.695554a1.chunk.css",
+  "main.js": "/shiv_travels/static/js/main.8febdea2.chunk.js",
+  "main.js.map": "/shiv_travels/static/js/main.8febdea2.chunk.js.map",
   "static/css/1.6cc33f45.chunk.css": "/shiv_travels/static/css/1.6cc33f45.chunk.css",
-  "static/js/1.765e8621.chunk.js": "/shiv_travels/static/js/1.765e8621.chunk.js",
-  "static/js/1.765e8621.chunk.js.map": "/shiv_travels/static/js/1.765e8621.chunk.js.map",
+  "static/js/1.a8e70493.chunk.js": "/shiv_travels/static/js/1.a8e70493.chunk.js",
+  "static/js/1.a8e70493.chunk.js.map": "/shiv_travels/static/js/1.a8e70493.chunk.js.map",
   "runtime~main.js": "/shiv_travels/static/js/runtime~main.b1b044e3.js",
   "runtime~main.js.map": "/shiv_travels/static/js/runtime~main.b1b044e3.js.map",
   "static/media/client4.png": "/shiv_travels/static/media/client4.33afca83.png",
@@ -26,9 +26,9 @@
   "static/media/serv3.png": "/shiv_travels/static/media/serv3.055da293.png",
   "static/media/serv4.png": "/shiv_travels/static/media/serv4.4970eb95.png",
   "static/media/Style.css": "/shiv_travels/static/media/abt_bg.bd8b0bef.png",
-  "static/css/main.364f39a3.chunk.css.map": "/shiv_travels/static/css/main.364f39a3.chunk.css.map",
   "static/css/1.6cc33f45.chunk.css.map": "/shiv_travels/static/css/1.6cc33f45.chunk.css.map",
+  "static/css/main.695554a1.chunk.css.map": "/shiv_travels/static/css/main.695554a1.chunk.css.map",
   "index.html": "/shiv_travels/index.html",
-  "precache-manifest.64702908d33e2e9c530a426ebee12469.js": "/shiv_travels/precache-manifest.64702908d33e2e9c530a426ebee12469.js",
+  "precache-manifest.01dbea65fc78aabccfb4dc66084975aa.js": "/shiv_travels/precache-manifest.01dbea65fc78aabccfb4dc66084975aa.js",
   "service-worker.js": "/shiv_travels/service-worker.js"
 }
