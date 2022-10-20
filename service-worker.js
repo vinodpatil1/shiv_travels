@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vinodpatil1/shiv_travels/precache-manifest.3b06a5748e6298ee6a8feff81e5942dc.js"
+  "/shiv_travels/precache-manifest.a9866dee6b993bc0911f19d797732951.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/vinodpatil1/shiv_travels/index.html", {
+workbox.routing.registerNavigationRoute("/shiv_travels/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
