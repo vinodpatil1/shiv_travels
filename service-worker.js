@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/shiv_travels/precache-manifest.d1232d9c0fa375fbd8d5a4a1fa7dbbc6.js"
+  "/shiv_travels/precache-manifest.21fa09110c207ecac1b70811f2ca2230.js"
 );
 
 workbox.clientsClaim();
