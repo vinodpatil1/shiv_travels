@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f45f3e470b545eb36e86",
-    "url": "/shiv_travels/static/css/main.c95a0aac.chunk.css"
+    "revision": "316481dd6c1492a2f071",
+    "url": "/shiv_travels/static/css/main.0382cef1.chunk.css"
   },
   {
-    "revision": "f45f3e470b545eb36e86",
-    "url": "/shiv_travels/static/js/main.f45f3e47.chunk.js"
+    "revision": "316481dd6c1492a2f071",
+    "url": "/shiv_travels/static/js/main.316481dd.chunk.js"
   },
   {
     "revision": "a8e704933979c120f32f",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/shiv_travels/static/media/abt_bg.bd8b0bef.png"
   },
   {
-    "revision": "d339e01a608ea25c1b8af1644873d143",
+    "revision": "83ad767ffa30a5cfabb551efc397687e",
     "url": "/shiv_travels/index.html"
   }
 ];
