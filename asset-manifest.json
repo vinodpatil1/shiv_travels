@@ -1,7 +1,7 @@
 {
-  "main.css": "/shiv_travels/static/css/main.221fa165.chunk.css",
-  "main.js": "/shiv_travels/static/js/main.8e4ccc0c.chunk.js",
-  "main.js.map": "/shiv_travels/static/js/main.8e4ccc0c.chunk.js.map",
+  "main.css": "/shiv_travels/static/css/main.12ceae84.chunk.css",
+  "main.js": "/shiv_travels/static/js/main.bd720079.chunk.js",
+  "main.js.map": "/shiv_travels/static/js/main.bd720079.chunk.js.map",
   "static/css/1.6cc33f45.chunk.css": "/shiv_travels/static/css/1.6cc33f45.chunk.css",
   "static/js/1.a8e70493.chunk.js": "/shiv_travels/static/js/1.a8e70493.chunk.js",
   "static/js/1.a8e70493.chunk.js.map": "/shiv_travels/static/js/1.a8e70493.chunk.js.map",
@@ -26,9 +26,9 @@
   "static/media/serv3.png": "/shiv_travels/static/media/serv3.055da293.png",
   "static/media/serv4.png": "/shiv_travels/static/media/serv4.4970eb95.png",
   "static/media/Style.css": "/shiv_travels/static/media/abt_bg.bd8b0bef.png",
-  "static/css/main.221fa165.chunk.css.map": "/shiv_travels/static/css/main.221fa165.chunk.css.map",
   "static/css/1.6cc33f45.chunk.css.map": "/shiv_travels/static/css/1.6cc33f45.chunk.css.map",
+  "static/css/main.12ceae84.chunk.css.map": "/shiv_travels/static/css/main.12ceae84.chunk.css.map",
   "index.html": "/shiv_travels/index.html",
-  "precache-manifest.e477b4ad756fda773b42e910b5d8820a.js": "/shiv_travels/precache-manifest.e477b4ad756fda773b42e910b5d8820a.js",
+  "precache-manifest.4a365ce60da2d4e5aeedcc06dd29b44c.js": "/shiv_travels/precache-manifest.4a365ce60da2d4e5aeedcc06dd29b44c.js",
   "service-worker.js": "/shiv_travels/service-worker.js"
 }
